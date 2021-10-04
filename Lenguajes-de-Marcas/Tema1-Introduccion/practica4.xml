@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE afiliado [
+	<!ELEMENT afiliado (DNI, Nombre, Apellidos, Situacion_Laboral, F_Nacimiento, L_Bajas, L_Prestanciones)>
+		<!ELEMENT DNI (#PCDATA)>
+		<!ELEMENT Nombre (#PCDATA)>
+		<!ELEMENT Apellidos (#PCDATA)>
+		<!ELEMENT Situacion_Laboral (en_paro | en_activo | jubilado | edad_no_laboral)>
+		<!ELEMENT F_Nacimiento (dia, mes, anio)>
+		<!
+
+
+]
