@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<agenda titulo="Agenda de contactos">
+	<contacto>
+		<nombre>Javier</nombre>
+		<apellido1>Perez</apellido1>
+		<apellido2>Gonzalez</apellido2>
+		<direccion>
+			<calle>maritima</calle>
+			<numero>5</numero>
+			<piso>1A</piso>
+			<localidad>Sta cruz de tenerife</localidad>
+			<provincia>Sta cruz de tenerife</provincia>
+		</direccion>
+		<telefonos>
+			<casa>922454745</casa>
+			<movil>645645346</movil>
+			<trabajo>606439346</trabajo>
+		</telefonos>
+	</contacto>
+
+	<contacto>
+		<nombre>Tanausu</nombre>
+		<apellido1>Negrin</apellido1>
+		<apellido2>Gonzalez</apellido2>
+		<direccion>
+			<Calle>acoran</Calle>
+			<numero>7</numero>
+			<piso>2B</piso>
+			<localidad>Cruz Santa</localidad>
+			<provincia>Sta cruz de Tenerife</provincia>
+		</direccion>
+		<telefonos>
+			<casa>922786534</casa>
+			<movil>685923786</movil>
+			<trabajo>609574382</trabajo>
+		</telefonos>
+	</contacto>
+</agenda>
