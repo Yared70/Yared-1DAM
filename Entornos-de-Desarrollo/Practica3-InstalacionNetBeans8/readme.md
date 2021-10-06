@@ -81,18 +81,17 @@ Esperamos a que termine de ejecutar y se abrirá la pantalla de bienvenida:
 
 ![07.png](Imagenes/07.png)
 
----
+
 
 ![08.png](Imagenes/08.png)
 
----
+
 
 - Tras la anterior ventana, habrá que activar las actualizaciones automáticas de los complementos instalados a través de la casilla de verificación y se mostrará también donde se instalará finalmente.
 - Al darle a Install se realizará la instalación
 
 ![09.png](Imagenes/09.png)
 
----
 
 ![10.png](Imagenes/10.png)
 
