@@ -1,9 +1,13 @@
 # Instalación del IDE Netbeans 8
 
-Created: October 6, 2021 11:46 AM
-Created By: Yared Martín Pérez
-Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica3-InstalacionNetBeans8
-Tema: Tema 1: Instalación y uso de entornos de desarrollo
+Created: October 6, 2021 11:46 AM  
+
+Created By: Yared Martín Pérez  
+
+Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica3-InstalacionNetBeans8  
+
+Tema: Tema 1: Instalación y uso de entornos de desarrollo  
+
 Type: Informe
 
 ---
