@@ -1,10 +1,12 @@
+
+
 # Instalación del IDE IntelliJ IDEA
 
-Created: October 6, 2021 6:41 PM
-Created By: Yared Martín Pérez
-Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica4-InstalacionNetBeans12
-Tema: Tema 1: Instalación y uso de entornos de desarrollo
-Type: Informe
+Created: October 6, 2021 6:41 PM  
+Created By: Yared Martín Pérez  
+Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica5-InstalacionIntellij  
+Tema: Tema 1: Instalación y uso de entornos de desarrollo  
+Type: Informe  
 
 ---
 
