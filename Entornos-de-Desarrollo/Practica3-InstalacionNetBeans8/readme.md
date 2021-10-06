@@ -19,13 +19,6 @@ Type: Informe
 NetBeans es un IDE popular para desarrollar aplicaciones Java. Esto permite desarrollar aplicaciones a partir de un conjunto de componentes de software modulares llamados módulos. 
 
 
-
-## Índice
-
-
-
-
-
 ### Requisitos previos
 
 Antes de instalar NetBeans debemos asegurarnos de tener java instalado con el siguiente comando:
