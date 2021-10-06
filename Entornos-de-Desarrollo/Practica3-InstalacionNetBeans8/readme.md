@@ -12,19 +12,19 @@ Tema: Tema 1: Instalación y uso de entornos de desarrollo
 
 Type: Informe
 
----
+
 
 ### ¿Qué es NetBeans?
 
 NetBeans es un IDE popular para desarrollar aplicaciones Java. Esto permite desarrollar aplicaciones a partir de un conjunto de componentes de software modulares llamados módulos. 
 
----
+
 
 ## Índice
 
----
 
----
+
+
 
 ### Requisitos previos
 
@@ -32,19 +32,19 @@ Antes de instalar NetBeans debemos asegurarnos de tener java instalado con el si
 
 ![08.png](Imagenes/java.png)
 
----
+
 
 # Pasos
 
----
+
 
 Vamos a realizar la instalación de NetBeans a través de línea de comandos. Para ello vamos a seguir los siguientes pasos:
 
----
+
 
 ### Descarga de NetBeans 8
 
----
+
 
 Descargar la versión deseada en este [enlace](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html). Hemos de descargar la versión **jdk-8u111-nb-8_2-linux-x64.sh**, aceptando Accept License Agreement.
 
@@ -52,7 +52,6 @@ Descargar la versión deseada en este [enlace](https://www.oracle.com/technetwor
 
 ![02.png](Imagenes/02.png)
 
----
 
 Una vez que se complete la descarga, navegue hasta el directorio donde se ha descargado el instalador de NetBeans IDE y ejecute el siguiente comando para hacer ejecutable el script del instalador y comenzar a instalarlo.
 
@@ -63,17 +62,17 @@ chmod +x jdk-8u111-nb-8_2-linux-x64.sh
 
 ![04.png](Imagenes/04.png)
 
----
+
 
 ![05.png](Imagenes/05.png)
 
----
+
 
 ### Instalación NetBeans 8
 
 Esperamos a que termine de ejecutar y se abrirá la pantalla de bienvenida:
 
----
+
 
 ![06.png](Imagenes/06.png)
 
