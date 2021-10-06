@@ -1,4 +1,4 @@
-![portada.jpg](imagenes/portada.jpg)
+![portada.png](imagenes/portada.png)
 
 # Instalación del IDE IntelliJ IDEA
 
