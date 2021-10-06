@@ -1,3 +1,5 @@
+![portada.jpg](imagenes/portada.jpg)
+
 # Instalación de Visual Studio Code
 
 Created: October 6, 2021 9:46 PM
