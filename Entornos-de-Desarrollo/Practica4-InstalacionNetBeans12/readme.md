@@ -1,10 +1,12 @@
+![portada.jpg](imagenes/portada.jpg)
+
 # Instalación del IDE Netbeans 12
 
-Created: October 6, 2021 5:01 PM
-Created By: Yared Martín Pérez
-Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica4-InstalacionNetBeans12
-Tema: Tema 1: Instalación y uso de entornos de desarrollo
-Type: Informe
+Created: October 6, 2021 5:01 PM  
+Created By: Yared Martín Pérez  
+Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica4-InstalacionNetBeans12  
+Tema: Tema 1: Instalación y uso de entornos de desarrollo  
+Type: Informe  
 
 ---
 
