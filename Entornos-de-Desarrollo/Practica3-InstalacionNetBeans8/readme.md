@@ -1,3 +1,5 @@
+![portada.jpg](Imagenes/portada.jpg)
+
 # Instalación del IDE Netbeans 8
 
 Created: October 6, 2021 11:46 AM  
