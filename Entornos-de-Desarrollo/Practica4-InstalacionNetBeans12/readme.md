@@ -1,10 +1,12 @@
+![portada.jpg](Imagenes/portada.jpg)
+
 # Instalación del IDE Netbeans 12
 
-Created: October 6, 2021 5:01 PM
-Created By: Yared Martín Pérez
-Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica4-InstalacionNetBeans12
-Tema: Tema 1: Instalación y uso de entornos de desarrollo
-Type: Informe
+Created: October 6, 2021 5:01 PM  
+Created By: Yared Martín Pérez  
+Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica4-InstalacionNetBeans12  
+Tema: Tema 1: Instalación y uso de entornos de desarrollo  
+Type: Informe  
 
 ---
 
@@ -16,17 +18,13 @@ NetBeans es un IDE popular para desarrollar aplicaciones Java. Esto permite desa
 
 ![https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png)
 
-## Índice
-
----
-
 ---
 
 ### Requisitos previos
 
 Antes de instalar NetBeans debemos asegurarnos de tener java instalado con el siguiente comando:
 
-![08.png](Instalacio%CC%81n%20del%20IDE%20Netbeans%2012%20014f82b6e8ec40b9959311add480b872/08.png)
+![08.png](Imagenes/08.png)
 
 ---
 
@@ -48,13 +46,13 @@ Para instalar la edición Netbeans 12, ejecutamos el siguiente comando:
 sudo snap install netbeans --classic
 ```
 
-![02.png](Instalacio%CC%81n%20del%20IDE%20Netbeans%2012%20014f82b6e8ec40b9959311add480b872/02.png)
+![02.png](Imagenes/02.png)
 
 ---
 
 Una vez que se complete la descarga, aparecerá el siguiente mensaje:
 
-![03.png](Instalacio%CC%81n%20del%20IDE%20Netbeans%2012%20014f82b6e8ec40b9959311add480b872/03.png)
+![03.png](Imagenes/03.png)
 
 ---
 
@@ -66,11 +64,11 @@ Esperamos a que termine de instalar y lo iniciamos desde actividades o ejecutand
 
 ---
 
-![05.png](Instalacio%CC%81n%20del%20IDE%20Netbeans%2012%20014f82b6e8ec40b9959311add480b872/05.png)
+![05.png](Imagenes/05.png)
 
 Y esta es la interfaz del programa ya abierto:
 
-![06.png](Instalacio%CC%81n%20del%20IDE%20Netbeans%2012%20014f82b6e8ec40b9959311add480b872/06.png)
+![06.png](Imagenes/06.png)
 
 ---
 
@@ -78,6 +76,6 @@ Y esta es la interfaz del programa ya abierto:
 
 En caso de que se quisiera desinstalar Netbeans 12 solo haría falta ejecutar el siguiente comando:
 
-![07.png](Instalacio%CC%81n%20del%20IDE%20Netbeans%2012%20014f82b6e8ec40b9959311add480b872/07.png)
+![07.png](Imagenes/07.png)
 
 ---
