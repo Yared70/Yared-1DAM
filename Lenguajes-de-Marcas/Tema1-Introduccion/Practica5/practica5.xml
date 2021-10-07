@@ -1,12 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<!DOCTYPE afiliado [
-	<!ELEMENT afiliado (DNI, Nombre, Apellidos, Situacion_Laboral, F_Nacimiento, L_Bajas, L_Prestanciones)>
+<!DOCTYPE Lista_Afiliados [
+	<!ELEMENT Lista_Afiliados (Afiliado+, DNI, Nombre, Apellidos, Situacion_Laboral, F_Nacimiento, L_Bajas*, L_Prestaciones*)>
+		<!ELEMENT Afiliado (#PCDATA)>
 		<!ELEMENT DNI (#PCDATA)>
 		<!ELEMENT Nombre (#PCDATA)>
 		<!ELEMENT Apellidos (#PCDATA)>
-		<!ELEMENT Situacion_Laboral (en_paro | en_activo | jubilado | edad_no_laboral)>
-		<!ELEMENT F_Nacimiento (dia, mes, anio)>
-		<!
+		<!ELEMENT Situacion_Laboral (En_Paro | En_Activo | Jubilado | Edad_No_Laboral)>
+		<!ELEMENT F_Nacimiento (Dia, Mes, Anio)>
+		<!ELEMENT L_Bajas (Causa, Fecha_Inicio_Baja, Fecha_Final_Baja?)>
+		<!ELEMENT L_Prestaciones (Cantidad_Percibida, Fecha_Inicio, Fecha_Final)>
 
 
-]
+]>
+
+<Lista_Afiliados>
+	<afiliado>
+		<DNI>7694894B</DNI>
+		<Nombre>pepe</Nombre>
+		<Apellidos>perez</Apellidos>
+		<Situacion_Laboral>En_paro</Situacion_Laboral>
+		<F_Nacimiento>
+			<Dia>15</Dia>
+			<Mes>4</Mes>
+			<Anio>1998</Anio>
+		</F_Nacimiento>
+		<L_Bajas>
+			<Causa>Accidente</Causa>
+			<Fecha_Inicio_Baja>15 abril</Fecha_Inicio_Baja>
+			<Fecha_Final_Baja/>
+		</L_Bajas>
+		<L_Prestaciones>
+			<Cantidad_Percibida>1200</Cantidad_Percibida>
+			<Fecha_Inicio>18 abril</Fecha_Inicio>
+			<Fecha_Final>6 agosto</Fecha_Final>
+		</L_Prestaciones>
+	</afiliado>
+
+		<afiliado>
+		<DNI>7694894B</DNI>
+		<Nombre>pepe</Nombre>
+		<Apellidos>perez</Apellidos>
+		<Situacion_Laboral>En_paro</Situacion_Laboral>
+		<F_Nacimiento>
+			<Dia>15</Dia>
+			<Mes>4</Mes>
+			<Anio>1998</Anio>
+		</F_Nacimiento>
+		<L_Bajas>
+			<Causa>Accidente</Causa>
+			<Fecha_Inicio_Baja>15 abril</Fecha_Inicio_Baja>
+			<Fecha_Final_Baja/>
+		</L_Bajas>
+		<L_Prestaciones>
+			<Cantidad_Percibida>1200</Cantidad_Percibida>
+			<Fecha_Inicio>18 abril</Fecha_Inicio>
+			<Fecha_Final>6 agosto</Fecha_Final>
+		</L_Prestaciones>
+	</afiliado>
+
+</Lista_Afiliados>
