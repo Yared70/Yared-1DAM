@@ -1,4 +1,4 @@
-![portada.png](imagenes/portada.png)
+![portada.jpg](imagenes/portada.jpg)
 
 # Práctica5: XML Seguridad Social
 
