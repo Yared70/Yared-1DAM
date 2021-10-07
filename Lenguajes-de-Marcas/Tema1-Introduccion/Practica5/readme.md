@@ -1,12 +1,14 @@
+![portada.png](imagenes/portada.png)
+
 # Práctica5: XML Seguridad Social
 
-Created: October 7, 2021 1:43 PM
-Github: https://github.com/Yared70/Yared-1DAM/tree/main/Lenguajes-de-Marcas/Tema1-Introduccion/Practica5
-Property: Yared Martín Pérez
-Tema: Tema 1: Introducción al Lenguaje de Marcas
-Type: Informe
+Created: October 7, 2021 1:43 PM  
+Github: https://github.com/Yared70/Yared-1DAM/tree/main/Lenguajes-de-Marcas/Tema1-Introduccion/Practica5  
+Property: Yared Martín Pérez  
+Tema: Tema 1: Introducción al Lenguaje de Marcas  
+Type: Informe  
 
-![ies.png](Pra%CC%81ctica5%20XML%20Seguridad%20Social%20320f4b47247746a68fcaa0111d7e47b8/ies.png)
+![ies.png](imagenes/ies.png)
 
 # Práctica 5: XML y DTD Seguridad Social
 
