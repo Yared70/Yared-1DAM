@@ -6,7 +6,6 @@ Property: Yared Martín Pérez
 Tema: Tema 1: Introducción al Lenguaje de Marcas  
 Type: Informe  
 
-![ies.png](Pra%CC%81ctica%206%20Sistema%20de%20un%20Almace%CC%81n%20de%20pedidos%200b36c77132e34f98a0cabe6ae254662f/ies.png)
 
 # Práctica 6: Sistema de un Almacén de pedidos
 
