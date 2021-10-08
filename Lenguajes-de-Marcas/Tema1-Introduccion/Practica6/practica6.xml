@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE Pedido [
+	<!ELEMENT Pedido (plantas*, flores*, utensilios*)>
+	
+	<!ELEMENT plantas (#PCDATA)>
+	<!ATTLIST platas nombre CDATA #REQUIRED>
+
+	<!ELEMENT flores (#PCDATA)>
+	<!ATTLIST flores color CDATA #IMPLIED>
+
+	<!ELEMENT utensilios (numero)>
+
+
+]>
+
+
+<Pedido>
+	<plantas nombre="rosas">4</plantas>
+	<flores color="rojas">2</flores>
+	<utensilios>
+		<numero>6</numero>
+	</utensilios>
+	<flores color="amarillas">6</flores>
+	<utensilios>
+		<numero>2</numero>
+	</utensilios>
+</Pedido>
