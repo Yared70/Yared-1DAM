@@ -8,7 +8,6 @@ Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/P
 Tema: Tema 2: Desarrollo de Software  
 Type: Informe  
 
-![https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png](img/ies.png)
 
 
 ![software-development-life-cycle-removebg-preview.png](img/software-development-life-cycle-removebg-preview.png)
