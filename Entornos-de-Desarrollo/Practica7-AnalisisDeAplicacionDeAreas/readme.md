@@ -1,12 +1,14 @@
+![img](img/portada.jpg)
+
 # Análisis de Aplicación de Áreas
 
-Created: October 24, 2021 6:22 PM
-Created By: Yared Martín Pérez
-Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica7-AnalisisDeAplicacionDeAreas
-Tema: Tema 2: Desarrollo de Software
-Type: Informe
+Created: October 24, 2021 6:22 PM  
+Created By: Yared Martín Pérez  
+Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica7-AnalisisDeAplicacionDeAreas  
+Tema: Tema 2: Desarrollo de Software  
+Type: Informe  
 
-![https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png)
+![https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png](img/ies.png)
 
 ## Índice
 
@@ -14,13 +16,13 @@ Type: Informe
 
 ---
 
-![software-development-life-cycle-removebg-preview.png](Ana%CC%81lisis%20de%20Aplicacio%CC%81n%20de%20A%CC%81reas%20c394b899a32041eb88e400a265585969/software-development-life-cycle-removebg-preview.png)
+![software-development-life-cycle-removebg-preview.png](img/software-development-life-cycle-removebg-preview.png)
 
 ## **Cálculo de Áreas**
 
 Se plantea:
 
-![68747470733a2f2f7777772e70726f6665736f72656e6c696e65612e636c2f67656f6d6574726961696d6167656e2f617265617330312e676966.gif](Ana%CC%81lisis%20de%20Aplicacio%CC%81n%20de%20A%CC%81reas%20c394b899a32041eb88e400a265585969/68747470733a2f2f7777772e70726f6665736f72656e6c696e65612e636c2f67656f6d6574726961696d6167656e2f617265617330312e676966.gif)
+![68747470733a2f2f7777772e70726f6665736f72656e6c696e65612e636c2f67656f6d6574726961696d6167656e2f617265617330312e676966.gif](img/68747470733a2f2f7777772e70726f6665736f72656e6c696e65612e636c2f67656f6d6574726961696d6167656e2f617265617330312e676966.gif)
 
 ---
 
