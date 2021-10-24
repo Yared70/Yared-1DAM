@@ -10,11 +10,6 @@ Type: Informe
 
 ![https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png](img/ies.png)
 
-## Índice
-
----
-
----
 
 ![software-development-life-cycle-removebg-preview.png](img/software-development-life-cycle-removebg-preview.png)
 
@@ -24,19 +19,19 @@ Se plantea:
 
 ![68747470733a2f2f7777772e70726f6665736f72656e6c696e65612e636c2f67656f6d6574726961696d6167656e2f617265617330312e676966.gif](img/68747470733a2f2f7777772e70726f6665736f72656e6c696e65612e636c2f67656f6d6574726961696d6167656e2f617265617330312e676966.gif)
 
----
+
 
 # Ejercicio
 
----
+
 
 Realiza el análisis para una aplicación que pretende realizar el cálculo de las áreas que muestra la imagen. Define clases y métodos necesarios que creas oportunos.
 
----
+
 
 ## Fase de Análisis
 
----
+
 
 El software a desarrollar para el cliente debe hallar el área de la figura geométrica que elija el usuario usando la fórmula que corresponda. Las figuras geométricas son:
 
@@ -51,7 +46,7 @@ El software a desarrollar para el cliente debe hallar el área de la figura geom
 
 ## Fase de Diseño
 
----
+
 
 El programa se dividirá en varias funciones. La función main, donde se le solicitará al usuario con un mensaje, que introduzca el número, de una lista, de la figura geométrica de la cual quiere saber el área. 
 
