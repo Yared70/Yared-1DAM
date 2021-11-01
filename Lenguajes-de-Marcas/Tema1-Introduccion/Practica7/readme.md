@@ -23,7 +23,7 @@ Los valores del atributo **mes** son de tipo cadena y tienen que coincidir con u
 - Los valores de **nombre**, **calle**, **población** y **provincia** tienen como máximo 50 caracteres. Definir el tipo **tipoNombre** para ello.
 - El código postal es un entero de 5 dígitos. Definir el tipo **tipoCodPostal** para ello.
 
-![esquemapersonas.jpeg](Pra%CC%81ctica%207%20XML%20y%20XSD%20Personas%2036a78ffbf59d4f8ea5fcd9c7c7b1652b/esquemapersonas.jpeg)
+![esquemapersonas.jpeg](img/esquemapersonas.jpeg)
 
 Generar un fichero XML instancia que referencie al schema y contenga los siguientes datos:
 
