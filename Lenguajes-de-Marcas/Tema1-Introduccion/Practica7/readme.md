@@ -1,11 +1,13 @@
+![img](img/portada.jpg)
+
 # Práctica 7: XML y XSD Personas
 
-Created: November 1, 2021 7:37 PM
-Property: Yared Martín Pérez
-Tema: Tema 1: Introducción al Lenguaje de Marcas
-Type: Informe
+Created: November 1, 2021 7:37 PM  
+Property: Yared Martín Pérez  
+Tema: Tema 1: Introducción al Lenguaje de Marcas  
+Type: Informe  
 
-![ies.png](Pra%CC%81ctica%207%20XML%20y%20XSD%20Personas%2036a78ffbf59d4f8ea5fcd9c7c7b1652b/ies.png)
+![ies.png](img/ies.png)
 
 # Personas
 
