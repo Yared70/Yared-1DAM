@@ -1,6 +1,6 @@
 ![img](Tarea1%20Instalaci%C3%B3n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/portada.png)
 
-# Tarea1: Instalación de Git en Linux
+# Práctica8: Instalación de Git en Linux
 
 Created: November 2, 2021 6:34 PM  
 Created By: Yared Martín Pérez  
