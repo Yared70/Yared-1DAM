@@ -1,4 +1,4 @@
-![img](Tarea1%20Instalaci%C3%B3n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/portada.png)
+![img](img/portada.png)
 
 # Práctica8: Instalación de Git en Linux
 
@@ -8,7 +8,7 @@ Github: https://github.com/Yared70/Yared-1DAM/blob/main/Entornos-de-Desarrollo/P
 Tema: Tema 3: Documentación y Sistemas de control de versiones  
 Type: Informe  
 
----
+
 
 ### ¿Qué es Git?
 
@@ -46,7 +46,7 @@ Empezamos comprobando si git está instalado de base
 git --version
 ```
 
-![01.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/01.png)
+![01.png](img/01.png)
 
 Al no tenerlo instalado empezamos actualizando el índice de paquetes con:
 
@@ -54,7 +54,7 @@ Al no tenerlo instalado empezamos actualizando el índice de paquetes con:
 sudo apt update
 ```
 
-![02.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/02.png)
+![02.png](img/02.png)
 
 
 
@@ -64,7 +64,7 @@ Tras esto instalamos git usando
 sudo apt install git
 ```
 
-![03.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/03.png)
+![03.png](img/03.png)
 
 Y comprobamos que versión se instaló con:
 
@@ -72,7 +72,7 @@ Y comprobamos que versión se instaló con:
 git --version
 ```
 
-![04.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/04.png)
+![04.png](img/04.png)
 
 ### Instalación de Git desde la fuente
 
@@ -85,7 +85,7 @@ sudo apt update
 sudo apt install libz-dev libssl-dev libcurl4-gnutls-dev libexpat1-dev gettext cmake gcc
 ```
 
-![05.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/05.png)
+![05.png](img/05.png)
 
 Tras haber instalado las dependencias necesarias, cree un directorio
 temporal y vaya a él. Aquí es donde descargaremos nuestro tarball de
@@ -96,7 +96,7 @@ mkdir tmp
 cd /tmp
 ```
 
-![06.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/06.png)
+![06.png](img/06.png)
 
 Desde el sitio web del proyecto Git, podemos navegar a la lista de tarball disponible en [https://mirrors.edge.kernel.org/pub/software/scm/git/](https://mirrors.edge.kernel.org/pub/software/scm/git/) y descargar la versión que quiera utilizar.Utilizaremos curl y enviaremos el archivo que descarguemos a git.tar.gz.
 
@@ -104,7 +104,7 @@ Desde el sitio web del proyecto Git, podemos navegar a la lista de tarball dispo
 curl -o git.tar.gz https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.33.1.tar.gz
 ```
 
-![08.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/08.png)
+![08.png](img/08.png)
 
 Descomprimimos el archivo tarball y nos movemos a la carpeta de git:
 
@@ -112,7 +112,7 @@ Descomprimimos el archivo tarball y nos movemos a la carpeta de git:
 tar -zxf git.tar.gz
 ```
 
-![09.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/09.png)
+![09.png](img/09.png)
 
 Ahora, creamos el paquete y lo instalamos escribiendo estos dos comandos:
 
@@ -121,9 +121,9 @@ make prefix=/usr/local all
 sudo make prefix=/usr/local install
 ```
 
-![10.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/10.png)
+![10.png](img/10.png)
 
-![12.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/12.png)
+![12.png](img/12.png)
 
 Ahora, sustituimos el proceso de shell para que se utilice la versión de Git que acabamos de instalar:
 
@@ -131,7 +131,7 @@ Ahora, sustituimos el proceso de shell para que se utilice la versión de Git qu
 exec bash
 ```
 
-![13.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/13.png)
+![13.png](img/13.png)
 
 Y comprobamos la versión de git en uso:
 
@@ -139,7 +139,7 @@ Y comprobamos la versión de git en uso:
 git --version
 ```
 
-![14.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/14.png)
+![14.png](img/14.png)
 
 ### Configuración de Git
 
@@ -153,7 +153,7 @@ git config --global user.name "Your Name"
 git config --global user.email "youremail@domain.com"
 ```
 
-![18.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/18.png)
+![18.png](img/18.png)
 
 Comprobamos como ha quedado con:
 
@@ -161,7 +161,7 @@ Comprobamos como ha quedado con:
 git config --list
 ```
 
-![19.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/19.png)
+![19.png](img/19.png)
 
 Esta información se almacena en un archivo de configuración que podemos modificar manualmente en:
 
@@ -169,4 +169,4 @@ Esta información se almacena en un archivo de configuración que podemos modifi
 ~/.gitconfig
 ```
 
-![20.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/20.png)
+![20.png](img/20.png)
