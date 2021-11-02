@@ -4,7 +4,7 @@
 
 Created: November 2, 2021 6:34 PM  
 Created By: Yared Martín Pérez  
-Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica6-InstalacionVSCode  
+Github: https://github.com/Yared70/Yared-1DAM/blob/main/Entornos-de-Desarrollo/Practica8-InstalacionGitEnLinux/readme.md  
 Tema: Tema 3: Documentación y Sistemas de control de versiones  
 Type: Informe  
 
@@ -17,19 +17,15 @@ Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad
 del mantenimiento de versiones de aplicaciones cuando estas tienen un
 gran número de archivos de código fuente
 
----
+
 
 ![https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png)
 
-## Índice
 
----
-
----
 
 ### Requisitos previos
 
----
+
 
 Necesitará un servidor Ubuntu 20.04 con una cuenta de superusuario no root.
 
@@ -37,11 +33,10 @@ Una vez que tenga el servidor y el usuario configurados, estará listo para come
 
 # Pasos
 
----
+
 
 ### Instalación de Git con paquetes predeterminados
 
----
 
 La opción de instalar con paquetes predeterminados es recomendable si quiere activar y ejecutar con Git rápidamente, si prefiere una versión estable ampliamente utilizada o si no busca las funciones más recientes disponibles.
 
@@ -61,7 +56,7 @@ sudo apt update
 
 ![02.png](Tarea1%20Instalacio%CC%81n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/02.png)
 
----
+
 
 Tras esto instalamos git usando
 
