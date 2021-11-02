@@ -1,10 +1,12 @@
+![img](Tarea1%20Instalaci%C3%B3n%20de%20Git%20en%20Linux%20d6299e02c3b143b2b8f5fa8c2b60e831/portada.png)
+
 # Tarea1: Instalación de Git en Linux
 
-Created: November 2, 2021 6:34 PM
-Created By: Yared Martín Pérez
-Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica6-InstalacionVSCode
-Tema: Tema 3: Documentación y Sistemas de control de versiones
-Type: Informe
+Created: November 2, 2021 6:34 PM  
+Created By: Yared Martín Pérez  
+Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica6-InstalacionVSCode  
+Tema: Tema 3: Documentación y Sistemas de control de versiones  
+Type: Informe  
 
 ---
 
