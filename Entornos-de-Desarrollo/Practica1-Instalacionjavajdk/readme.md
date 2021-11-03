@@ -16,7 +16,11 @@ Java es un lenguaje de programación y una plataforma informática. Hay muchas a
 
 
 
+
+
 ![https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png)
+
+
 
 
 ### Requisitos previos
@@ -27,7 +31,7 @@ Antes de instalar Java debemos actualizar el sistema con:
 sudo apt-get update
 ```
 
-![01.png](Instalacio%CC%81n%20de%20JDK%20en%20Ubuntu%20cc89d936c65c41b1bc8424d16fb9a419/01.png)
+![01.png](imagenes/01.png)
 
 
 
@@ -47,7 +51,7 @@ Para instalar Java, ejecutamos el siguiente comando:
 sudo apt-get install default-jdk
 ```
 
-![02.png](Instalacio%CC%81n%20de%20JDK%20en%20Ubuntu%20cc89d936c65c41b1bc8424d16fb9a419/02.png)
+![02.png](imagenes/02.png)
 
 Y comprobamos la versión que se ha instalado con:
 
@@ -55,7 +59,7 @@ Y comprobamos la versión que se ha instalado con:
 java --version
 ```
 
-![03.png](Instalacio%CC%81n%20de%20JDK%20en%20Ubuntu%20cc89d936c65c41b1bc8424d16fb9a419/03.png)
+![03.png](imagenes/03.png)
 
 
 ## **¿Cómo instalar una versión específica de Java?**
@@ -68,7 +72,7 @@ sudo apt install openjdk-X-jdk
 
 Cambiando la X por el número de la versión que queremos, en este caso, la 8:
 
-![04.png](Instalacio%CC%81n%20de%20JDK%20en%20Ubuntu%20cc89d936c65c41b1bc8424d16fb9a419/04.png)
+![04.png](imagenes/04.png)
 
 Aún después de instalar jdk-8 si usamos:
 
@@ -76,7 +80,7 @@ Aún después de instalar jdk-8 si usamos:
 java --version
 ```
 
-![05.png](Instalacio%CC%81n%20de%20JDK%20en%20Ubuntu%20cc89d936c65c41b1bc8424d16fb9a419/05.png)
+![05.png](imagenes/05.png)
 
 Podemos ver que sigue usando la versión 11, por lo que tenemos que configurar las variables de entorno
 
@@ -92,7 +96,7 @@ Empezamos mirando que versiones de Java tenemos instaladas con el comando:
 ls /usr/lib/jvm
 ```
 
-![06.png](Instalacio%CC%81n%20de%20JDK%20en%20Ubuntu%20cc89d936c65c41b1bc8424d16fb9a419/06.png)
+![06.png](imagenes/06.png)
 
 ### Actualización de las variables de entorno
 
@@ -104,7 +108,7 @@ sudo update-alternatives --config java
 
 Donde en este caso elegimos la selección 2 ya que es la correspondiente a la versión 8
 
-![07.png](Instalacio%CC%81n%20de%20JDK%20en%20Ubuntu%20cc89d936c65c41b1bc8424d16fb9a419/07.png)
+![07.png](imagenes/07.png)
 
 Y por ultimo comprobamos la versión de java en uso:
 
@@ -112,4 +116,4 @@ Y por ultimo comprobamos la versión de java en uso:
 java --version
 ```
 
-![08.png](Instalacio%CC%81n%20de%20JDK%20en%20Ubuntu%20cc89d936c65c41b1bc8424d16fb9a419/08.png)
+![08.png](imagenes/08.png)
