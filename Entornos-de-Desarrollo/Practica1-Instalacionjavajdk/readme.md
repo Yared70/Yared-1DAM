@@ -1,26 +1,23 @@
+![](imagenes/portada.png)
+
 # Instalación de JDK en Ubuntu
 
-Created: November 3, 2021 10:50 AM
-Created By: Yared Martín Pérez
-Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica1-Instalacionjavajdk
-Tema: Tema 1: Instalación y uso de entornos de desarrollo
-Type: Informe
+Created: November 3, 2021 10:50 AM  
+Created By: Yared Martín Pérez  
+Github: https://github.com/Yared70/Yared-1DAM/tree/main/Entornos-de-Desarrollo/Practica1-Instalacionjavajdk  
+Tema: Tema 1: Instalación y uso de entornos de desarrollo  
+Type: Informe  
 
----
+
 
 ### ¿Qué es Java?
 
 Java es un lenguaje de programación y una plataforma informática. Hay muchas aplicaciones y sitios web que no funcionarán, probablemente, a menos que tengan Java instalado, y cada día se crean más. Java es rápido, seguro y fiable
 
----
+
 
 ![https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2021/06/logotipo-fondo-transparente-4.png)
 
-## Índice
-
----
-
----
 
 ### Requisitos previos
 
@@ -32,19 +29,17 @@ sudo apt-get update
 
 ![01.png](Instalacio%CC%81n%20de%20JDK%20en%20Ubuntu%20cc89d936c65c41b1bc8424d16fb9a419/01.png)
 
----
+
 
 # Pasos
 
----
+
 
 Vamos a realizar la instalación de Java a través de línea de comandos. Para ello vamos a seguir los siguientes pasos:
 
----
 
 ## Descarga e instalación de Java
 
----
 
 Para instalar Java, ejecutamos el siguiente comando:
 
@@ -62,7 +57,6 @@ java --version
 
 ![03.png](Instalacio%CC%81n%20de%20JDK%20en%20Ubuntu%20cc89d936c65c41b1bc8424d16fb9a419/03.png)
 
----
 
 ## **¿Cómo instalar una versión específica de Java?**
 
