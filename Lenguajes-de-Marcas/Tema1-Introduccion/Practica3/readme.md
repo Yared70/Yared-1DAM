@@ -2,11 +2,11 @@
 
 # Práctica3: XML Receta de Cocina
 
-Created: November 3, 2021 12:26 PM
-Github: https://github.com/Yared70/Yared-1DAM/blob/main/Lenguajes-de-Marcas/Tema1-Introduccion/Practica3/readme.md
-Property: Yared Martín Pérez
-Tema: Tema 1: Introducción al Lenguaje de Marcas
-Type: Informe
+Created: November 3, 2021 12:26 PM  
+Github: https://github.com/Yared70/Yared-1DAM/blob/main/Lenguajes-de-Marcas/Tema1-Introduccion/Practica3/readme.md  
+Property: Yared Martín Pérez  
+Tema: Tema 1: Introducción al Lenguaje de Marcas  
+Type: Informe  
 
 ![ies.png](img/ies.png)
 
